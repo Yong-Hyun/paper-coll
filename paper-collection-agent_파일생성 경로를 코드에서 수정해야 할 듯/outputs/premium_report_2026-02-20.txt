@@ -1,0 +1,60 @@
+=== 프리미엄 연구 보고서 (AI 요약 포함): 2026-02-20 ===
+키워드: On-device AI, ADL, Dementia Care, Edge AI
+======================================================================
+
+[1] Rememo: A Research-through-Design Inquiry Towards an AI-in-the-loop Therapist's Tool for Dementia Reminiscence
+출처: arXiv | 날짜: 2026-02-19T05:05:14Z
+링크: https://arxiv.org/abs/2602.17083v1
+▶ AI 한글 요약:
+요약 중 오류 발생: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------------------------------------
+
+[2] Node Learning: A Framework for Adaptive, Decentralised and Collaborative Network Edge AI
+출처: arXiv | 날짜: 2026-02-18T19:23:47Z
+링크: https://arxiv.org/abs/2602.16814v1
+▶ AI 한글 요약:
+요약 중 오류 발생: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------------------------------------
+
+[3] Bit-Width-Aware Design Environment for Few-Shot Learning on Edge AI Hardware
+출처: arXiv | 날짜: 2026-02-17T21:23:33Z
+링크: https://arxiv.org/abs/2602.16024v1
+▶ AI 한글 요약:
+요약 중 오류 발생: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------------------------------------
+
+[4] FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment
+출처: Hugging Face | 날짜: 2026-02-19T06:00:46.000Z
+링크: https://huggingface.co/papers/2602.17259
+▶ AI 한글 요약:
+요약 중 오류 발생: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------------------------------------
+
+[5] References Improve LLM Alignment in Non-Verifiable Domains
+출처: Hugging Face | 날짜: 2026-02-18T14:03:34.000Z
+링크: https://huggingface.co/papers/2602.16802
+▶ AI 한글 요약:
+요약 중 오류 발생: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------------------------------------
+
+[6] SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning
+출처: Hugging Face | 날짜: 2026-02-13T18:01:42.000Z
+링크: https://huggingface.co/papers/2602.13515
+▶ AI 한글 요약:
+요약 중 오류 발생: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------------------------------------
+
+[7] Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents
+출처: Hugging Face | 날짜: 2026-02-14T20:52:19.000Z
+링크: https://huggingface.co/papers/2602.16855
+▶ AI 한글 요약:
+요약 중 오류 발생: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------------------------------------
+
+[8] Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5
+출처: Hugging Face | 날짜: 2026-02-15T23:30:06.000Z
+링크: https://huggingface.co/papers/2602.14457
+▶ AI 한글 요약:
+요약 중 오류 발생: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+----------------------------------------------------------------------
+

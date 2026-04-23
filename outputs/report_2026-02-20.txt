@@ -1,0 +1,33 @@
+=== Daily Research Report: 2026-02-20 ===
+Keywords: On-device AI, ADL, Dementia Care, Edge AI
+
+[1] Rememo: A Research-through-Design Inquiry Towards an AI-in-the-loop Therapist's Tool for Dementia Reminiscence
+Date: 2026-02-19T05:05:14Z
+Link: https://arxiv.org/abs/2602.17083v1
+Summary: Reminiscence therapy (RT) is a common non-pharmacological intervention in dementia care. Recent technology-mediated interventions have largely focused on people with dementia through solutions that replace human facilitators with conversational agents. However, the relational work of facilitation is critical in the effectiveness of RT. Hence, we developed Rememo, a therapist-oriented tool that integrates Generative AI to support and enrich human facilitation in RT. Our tool aims to support the i...
+------------------------------------------------------------
+
+[2] Node Learning: A Framework for Adaptive, Decentralised and Collaborative Network Edge AI
+Date: 2026-02-18T19:23:47Z
+Link: https://arxiv.org/abs/2602.16814v1
+Summary: The expansion of AI toward the edge increasingly exposes the cost and fragility of cen- tralised intelligence. Data transmission, latency, energy consumption, and dependence on large data centres create bottlenecks that scale poorly across heterogeneous, mobile, and resource-constrained environments. In this paper, we introduce Node Learning, a decen- tralised learning paradigm in which intelligence resides at individual edge nodes and expands through selective peer interaction. Nodes learn cont...
+------------------------------------------------------------
+
+[3] Bit-Width-Aware Design Environment for Few-Shot Learning on Edge AI Hardware
+Date: 2026-02-17T21:23:33Z
+Link: https://arxiv.org/abs/2602.16024v1
+Summary: In this study, we propose an implementation methodology of real-time few-shot learning on tiny FPGA SoCs such as the PYNQ-Z1 board with arbitrary fixed-point bit-widths. Tensil-based conventional design environments limited hardware implementations to fixed-point bit-widths of 16 or 32 bits. To address this, we adopt the FINN framework, enabling implementations with arbitrary bit-widths. Several customizations and minor adjustments are made, including: 1.Optimization of Transpose nodes to resolv...
+------------------------------------------------------------
+
+[4] Memristive tabular variational autoencoder for compression of analog data in high energy physics
+Date: 2026-02-17T20:26:56Z
+Link: https://arxiv.org/abs/2602.15990v1
+Summary: We present an implementation of edge AI to compress data on an in-memory analog content-addressable memory (ACAM) device. A variational autoencoder is trained on a simulated sample of energy measurements from incident high-energy electrons on a generic three-layer scintillator-based calorimeter. The encoding part is distilled into tabular format by regressing the latent space variables using decision trees, which is then programmed on a memristor-based ACAM. In real-time, the ACAM compresses 48 ...
+------------------------------------------------------------
+
+[5] Autodeleveraging as Online Learning
+Date: 2026-02-16T20:42:34Z
+Link: https://arxiv.org/abs/2602.15182v1
+Summary: Autodeleveraging (ADL) is a last-resort loss socialization mechanism used by perpetual futures venues when liquidation and insurance buffers are insufficient to restore solvency. Despite the scale of perpetual futures markets, ADL has received limited formal treatment as a sequential control problem. This paper provides a concise formalization of ADL as online learning on a PNL-haircut domain: at each round, the venue selects a solvency budget and a set of profitable trader accounts. The profita...
+------------------------------------------------------------
+
